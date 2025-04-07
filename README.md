@@ -29,7 +29,7 @@
       text-decoration: none;
       display: inline-block;
     }
-    nav a:hover {
+    nav a: hover {
       background-color: #ff6b00;
     }
     .hero {
@@ -99,7 +99,7 @@
   </div>
 
   <footer id="contact">
-    <p>📧 संपर्क करें: kushikhabar@email.com | 📞 9999999999</p>
+    <p>📧 संपर्क करें: kushikhabar@email.com | 📞 9517253566</p>
     <p>&copy; 2025 KushiKhabar</p>
   </footer>
 </body>
